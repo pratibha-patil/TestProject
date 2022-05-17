@@ -1,0 +1,2 @@
+com/junit/demo/tests/ExampleTest.java
+ com.junit.demo.tests.ExampleTest
